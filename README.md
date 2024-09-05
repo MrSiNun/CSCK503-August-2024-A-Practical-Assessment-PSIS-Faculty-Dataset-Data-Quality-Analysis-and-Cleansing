@@ -1,9 +1,3 @@
-# MLMidModuleAssignment
-
-Here is a potential README file for the GitHub project based on the contents of your provided report:
-
----
-
 # SIS Faculty Dataset Data Quality Analysis and Cleansing
 
 ## Project Overview
